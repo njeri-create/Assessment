@@ -1,0 +1,15 @@
+.carousel-inner img{
+    width: 100%;
+    height: 70vh;
+}
+P  {
+    text-align: center;
+    color: black;
+}
+hi{
+    font-size: 30px;
+    font-weight: 400;
+    color: #0dcaf0;
+    font-family: "Bodoni MT Condensed";
+    text-align: center;
+}
